@@ -1,3 +1,3 @@
 file 'hello.txt' do
-    content 'welcome to chef'
+  content 'welcome to chef'
 end
